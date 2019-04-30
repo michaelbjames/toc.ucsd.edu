@@ -30,9 +30,14 @@ navigation_header:
   About: /about
   Join: /join
   Staff: /staff
+  Trips: /trips
 
 navigation_footer:
   Home: /
+  About: /about
+  Join: /join
+  Staff: /staff
+  Trips: /trips
 
 plugins:
   - jekyll-seo-tag
