@@ -16,4 +16,4 @@ $60 for 365 days of membership.
 
 ## Join us:
 1. Fill out the [interest form](https://docs.google.com/forms/d/e/1FAIpQLSe261bLN_RQelZPLuLi03Dhr7loX2nOpFgcL8zpSgzE6LAOzA/viewform?usp=sf_link)
-0. Venmo or pay cash to one of the [staff](/staff)
+0. Venmo or pay cash to the president: `@michaelbjames`
