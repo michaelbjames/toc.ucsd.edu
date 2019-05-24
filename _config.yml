@@ -42,6 +42,8 @@ navigation_footer:
 plugins:
   - jekyll-seo-tag
 
+google_analytics: UA-140785853-1
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
